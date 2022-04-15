@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 <h1 align="center">Hi 👋, I'm Aaron Fulgar</h1>
 <h3 align="center">A passionate Web Developer base in Philippines</h3>
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px" align="right" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnin01&label=Profile%20views&color=0e75b6&style=flat" alt="ronnin01" /> </p>
 
@@ -26,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnin01&show_icons=true&locale=en&layout=compact" alt="ronnin01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnin01&show_icons=true&locale=en" alt="ronnin01" /></p>
+
