@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnin01&label=Profile%20views&color=0e75b6&style=flat" alt="ronnin01" /> </p>
 
-- 🔭 I’m currently working on **Book Store Website**
+- 🔭 I’m currently working on my **Personal Projects**
 
-- 🌱 I’m currently learning **Jquery, Wordpress, React, Laravel**
+- 🌱 I’m currently learning **WordPress and Vue3.js**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **gaby.tech.dev@gmail.com**
+- 📫 How to reach me **aaron.gab.fulgar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
