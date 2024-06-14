@@ -1,14 +1,14 @@
 ![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 <h1 align="center">Hi 👋, I'm Aaron Fulgar</h1>
-<h3 align="center">A passionate Web Developer base in Philippines</h3>
+<h3 align="center">A passionate Software Developer base in Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnin01&label=Profile%20views&color=0e75b6&style=flat" alt="ronnin01" /> </p>
 
 - 🔭 I’m currently working on my **Personal Projects**
 
-- 🌱 I’m currently learning **WordPress and Vue3.js**
+- 🌱 I’m currently learning **`DevSecOps`, `Kubernetes`, `Terraform`, and `Ansible`**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **aaron.gab.fulgar@gmail.com**
 
