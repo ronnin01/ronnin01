@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnin01&label=Profile%20views&color=0e75b6&style=flat" alt="ronnin01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronnin01" alt="ronnin01" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Project**
 
 - 🌱 I’m currently learning **DevOps, Kubernetes, Ansible and Terraform**
