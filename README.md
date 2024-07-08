@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnin01&show_icons=true&locale=en" alt="ronnin01" /></p>
 
- ![Snake animation](https://github.com/ronnin01/ronnin01/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ronnin01/ronnin01/output/github-contribution-grid-snake.svg" />
 
