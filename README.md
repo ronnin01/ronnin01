@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnin01&label=Profile%20views&color=0e75b6&style=flat" alt="ronnin01" /> </p>
 
-- 🔭 I’m currently working on **Personal Project**
-
-- 🌱 I’m currently learning **DevOps, Kubernetes, Ansible and Terraform**
-
-- 👨‍💻 All of my projects are available at [https://aaronfulgar.vercel.app](https://aaronfulgar.vercel.app)
+- 🔭 I’m currently working on **Personal Projects**
 
 - 💬 Ask me about **Software Development**
 
@@ -26,6 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnin01&show_icons=true&locale=en&layout=compact" alt="ronnin01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnin01&show_icons=true&locale=en" alt="ronnin01" /></p>
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ronnin01/ronnin01/output/github-contribution-grid-snake.svg" />
 
